@@ -7,6 +7,7 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 import pydeck as pdk
+import mapbox as mb
 import datetime
 import altair as alt
 import matplotlib.pyplot as plt
